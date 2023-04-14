@@ -1,0 +1,6 @@
+wallet = input("Enter your ETH wallet :   ")
+print("Checking wallet")
+print("Connecting to...")
+print(wallet)
+print("Wallet connected !")
+input("press Enter to continue")

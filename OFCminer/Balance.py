@@ -1,0 +1,8 @@
+print("     0.00000000000 ETH = 0.000 USD")
+print("Wait some minutes before it gets activated!")
+print("")
+print("")
+print("add DiscodoBaguette#8369 on discord for help!")
+print("")
+print("")
+input("Press the Enter key to continue ")
